@@ -1,0 +1,8 @@
+{
+  "name": "product-development-lifecycle",
+  "version": "1.0.0",
+  "releasedAt": "2026-11-18",
+  "canonicalContent": "references",
+  "projectLayerPolicy": "reference-and-override-with-approved-differences"
+}
+
