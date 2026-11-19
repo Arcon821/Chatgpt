@@ -92,7 +92,6 @@ $product-development-lifecycle
 | [`request-expression-guide.md`](references/request-expression-guide.md) | 教用户如何表达需求 |
 | [`templates.md`](references/templates.md) | 可复制的产品和交付模板 |
 | [`governance-and-sync.md`](references/governance-and-sync.md) | 版本、审批和跨项目同步 |
-| [`dezhou-retrospective.md`](references/dezhou-retrospective.md) | 首个真实项目复盘案例 |
 
 ## 证据语言
 
@@ -120,5 +119,4 @@ node scripts/validate.cjs
 ```
 
 校验器检查必需文件、Skill frontmatter、版本一致性、入口链接和未完成占位符。
-
 
