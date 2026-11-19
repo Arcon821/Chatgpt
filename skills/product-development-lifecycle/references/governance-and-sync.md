@@ -44,7 +44,7 @@ For product discovery, requirements, prototyping, delivery planning, or retrospe
 
 ## 同步策略
 
-公共标准最好托管在独立版本库或内部包源。当前仓库中的 Skill 包是可迁移的首个权威版本；建立共享仓库后，应整体迁移并保留版本历史，再让项目引用共享地址。
+公开发布仓库 [`Arcon821/Chatgpt`](https://github.com/Arcon821/Chatgpt/tree/main/skills/product-development-lifecycle) 是公共版本的发布位置。项目可保留固定版本的本地副本，但应引用公开版本并记录差异；公共规则经用户批准后更新发布，再同步相关项目。
 
 每次发布公共版本：
 
@@ -75,4 +75,5 @@ For product discovery, requirements, prototyping, delivery planning, or retrospe
 - 模板是否能产生可观察产物，而非只增加文档负担。
 - Skill入口能否准确触发并按需读取参考文件。
 - 相关链接、版本和项目接入说明是否有效。
+
 
